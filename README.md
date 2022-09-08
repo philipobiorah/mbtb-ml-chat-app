@@ -1,4 +1,5 @@
-# Multi user chat app
+# ML-Chat-app
+An Machine Learning powered chat application that identifies topics in conversations and classifies them into different topics-categories
 
 This project is a group chat application that allows the users to chat with
 multiple users via a graphical user interface. It consists of two
